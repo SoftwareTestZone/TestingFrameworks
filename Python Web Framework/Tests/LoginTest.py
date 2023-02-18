@@ -1,5 +1,6 @@
 from utilities import ActionPages, config, Locators
 from Pages import LoginPage
+import pytest
 
 
 def logInTest():
